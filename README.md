@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me ... dogucigsar@hotmail.com
-- I'm currently working on a project called "7-Times"
+- I'm currently working on some projects.
 
 <!---
 DoguCigsar/DoguCigsar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
