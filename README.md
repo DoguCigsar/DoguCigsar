@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me dogu.cigsar@cos-soft.net
-- I'm currently working on some projects.
+- I'm currently working on En Saglikli Yol
 
 <!---
 DoguCigsar/DoguCigsar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
